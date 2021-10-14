@@ -1,0 +1,18 @@
+name: AutoSellReborn
+author: AEndrix
+description: AutoSell reborned
+version: 02.09.21
+main: it.aendrix.asreborn.main.Main
+depend: [Vault]
+soft-depend: [PlaceholderAPI]
+api-version: 1.16
+
+commands:
+    sellall:
+        description: Vendit tutti gli oggetti presenti nel tuo inventario
+    autosell:
+        description: Attiva autosell
+    multiplier:
+        description: Controlla il tuo multiplier
+    asa:
+        description: Admin

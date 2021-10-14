@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\redeg\Desktop\Progetti\Projects\AutoSellReborn\.metadata\.plugins\org.eclipse.jdt.core
+4060175496.index
+2030342382.index
+148899393.index
+953925936.index
+988803041.index

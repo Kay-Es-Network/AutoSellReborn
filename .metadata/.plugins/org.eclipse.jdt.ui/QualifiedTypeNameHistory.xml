@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.Statement"/>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="org.bukkit.plugin.Plugin"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.files.Config"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.apache.logging.log4j.core.config.yaml.YamlConfiguration"/>
+    <fullyQualifiedTypeName name="org.bukkit.configuration.file.YamlConfiguration"/>
+    <fullyQualifiedTypeName name="org.bukkit.scheduler.BukkitRunnable"/>
+    <fullyQualifiedTypeName name="net.minecraft.server.v1_16_R1.ItemStack"/>
+    <fullyQualifiedTypeName name="org.bukkit.inventory.ItemStack"/>
+    <fullyQualifiedTypeName name="org.bukkit.Material"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.Listener"/>
+    <fullyQualifiedTypeName name="net.md_5.bungee.api.ChatColor"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.listeners.User"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.main.utils"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.listeners.GlobalMultiplier"/>
+    <fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+    <fullyQualifiedTypeName name="org.bukkit.command.CommandSender"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.listeners.MultiplierListeners"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.files.Messages"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.main.Main"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.listeners.UserLoader"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.placeholders.UserPlaceholders"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.listeners.Prices"/>
+    <fullyQualifiedTypeName name="it.aendrix.asreborn.listeners.SellSystem"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,26 @@
+package it.aendrix.asreborn.main;
+
+import java.util.HashMap;
+
+import org.bukkit.Material;
+import org.bukkit.entity.Player;
+import org.bukkit.inventory.Inventory;
+
+import it.aendrix.asreborn.listeners.Prices;
+import it.aendrix.asreborn.listeners.SellSystem;
+
+public class AutoSellAPI {
+
+	public static HashMap<Material, Float> getPrices() {
+		return Prices.all();
+	}
+	
+	public static float sellAll(Player p) {
+		return SellSystem.sellAll(p);
+	}
+	
+	public static boolean hasSpaceInventory(Inventory inv) {
+		return SellSystem.hasSpaceInventory(inv);
+	}
+	
+}
